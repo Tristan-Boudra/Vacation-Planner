@@ -7,7 +7,7 @@ export default function Home() {
     <Layout>
       <LayoutTitle>Vacation Planner</LayoutTitle>
       <Button className="w-max">
-        <Link href="/user">user</Link>
+        <Link href="/home">user</Link>
       </Button>
     </Layout>
   );
